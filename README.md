@@ -32,10 +32,10 @@ I’m comfortable working with both greenfield projects and maintaining complex 
 My biggest project so far. I worked as the main backend developer for a multi-branch education center. Built subscription system, wallet & payment integration, real-time notifications, NFC check-in, and complex approval workflows. Learned a lot about designing scalable domain models.
 
 **Dr.Ngan Clinic Management System**  
-Solo full-stack project. Built the complete web app for an obstetrics & gynecology clinic — online booking, patient management, admin dashboard, and analytics. From database design to deployment on Azure and Vercel.
+Solo full-stack project. Built a complete web app for an obstetrics & gynecology clinic — online booking, patient management, admin dashboard, and analytics. From database design to deployment on Azure and Vercel.
 
 **Lumine - Enterprise Management System**  
-Explored Clean Architecture deeply. Built a backend that supports both Blazor and MVC frontends at the same time. Focused on separation of concerns and flexibility.
+Explored Clean Architecture. Built a backend that supports both Blazor and MVC frontends simultaneously. Focused on separation of concerns and flexibility.
 
 You can find all my projects in the pinned repositories below.
 
