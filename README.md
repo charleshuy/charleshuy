@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Xuân Huy (Charles) 👋</h1>
+  <h1>Hi, I'm Xuân Huy 👋</h1>
   <h3>.NET Developer | Software Engineer</h3>
 </div>
 
